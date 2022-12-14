@@ -1,0 +1,27 @@
+#e {
+    background-color: lavender;
+}
+#n {
+    background-color: white;
+    width: 500px;
+    border-radius: 20px;
+}
+hr {
+   background-color: rgb(228, 133, 133);
+   height: 2px;
+}
+#h{
+    color: #6c5ce7;
+    text-shadow: 2px 2px 8px #ff7675;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:  #ff7675;
+    color: white;
+    text-align: center;
+  }
